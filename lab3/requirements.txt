@@ -1,0 +1,8 @@
+nltk
+gensim
+
+
+Сделать в консоли питона:
+
+import nltk
+nltk.download("stopwords")
